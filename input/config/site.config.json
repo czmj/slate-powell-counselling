@@ -178,7 +178,7 @@
         "port": "",
         "server": "",
         "username": "",
-        "password": "publii uuid-1740676383439-388395282",
+        "password": "",
         "askforpassword": false,
         "rejectUnauthorized": true,
         "path": "",
@@ -188,8 +188,8 @@
             "customProvider": false,
             "provider": "aws",
             "endpoint": "",
-            "id": "publii-s3-id uuid-1740676383439-388395282",
-            "key": "publii-s3-key uuid-1740676383439-388395282",
+            "id": "",
+            "key": "",
             "bucket": "",
             "region": "",
             "customRegion": "",
@@ -200,7 +200,7 @@
             "url": "",
             "branch": "",
             "user": "",
-            "password": "publii-git-password uuid-1740676383439-388395282",
+            "password": "",
             "commitAuthor": "",
             "commitEmail": "",
             "commitMessage": "Publii: update content"
@@ -219,11 +219,11 @@
             "rejectUnauthorized": true,
             "repo": "",
             "branch": "",
-            "token": "publii-gl-token uuid-1740676383439-388395282"
+            "token": ""
         },
         "netlify": {
-            "id": "publii-netlify-id uuid-1740676383439-388395282",
-            "token": "publii-netlify-token uuid-1740676383439-388395282"
+            "id": "",
+            "token": ""
         },
         "google": {
             "key": "",
@@ -236,5 +236,5 @@
         }
     },
     "theme": "slate",
-    "syncDate": 1740757271363
+    "syncDate": 1740760481085
 }
