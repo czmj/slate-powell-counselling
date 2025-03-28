@@ -654,7 +654,7 @@ body {
 .page {
   position: relative;
   width: 100%;
-  padding: 6vw 3vw;
+  padding: calc(30px + 6vw) 3vw;
 }
 
 @media all and (min-width: 992px) {
