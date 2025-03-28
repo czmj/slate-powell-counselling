@@ -1,4 +1,12 @@
 <header class="sidebar">
+   <button class="sidebar-button" aria-label="Toggle sidebar">
+      <span class="open icon">
+         {{> icon-burger}}
+      </span>
+      <span class="close icon">
+         {{> icon-close}}
+      </span>
+   </button>
    <a class="logo" href="{{@website.url}}">
       {{#if @website.logo}}
          <img src="{{@website.logo}}" alt="{{@website.name}}" width="{{@website.logoSize.width}}" height="{{@website.logoSize.height}}">
@@ -13,3 +21,14 @@
    {{/if}}
 
 </header>
+<script>
+   // I shouldn't do this but I'm lazy
+   document.addEventListener("DOMContentLoaded", (event) => {
+    var toggle = document.querySelector('.sidebar-button');
+    var sidebar = document.querySelector('.sidebar');
+
+    toggle.onclick = function () {
+        sidebar.classList.toggle('active');
+    }
+});
+</script>
