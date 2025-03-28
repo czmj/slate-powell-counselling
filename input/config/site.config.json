@@ -207,7 +207,7 @@
         },
         "github": {
             "server": "api.github.com",
-            "user": "czmj",
+            "user": "Hartholm",
             "repo": "slate-powell-counselling",
             "branch": "gh-pages",
             "token": "publii-gh-token uuid-1740676383439-388395282",
@@ -236,5 +236,5 @@
         }
     },
     "theme": "slate",
-    "syncDate": 1740766918459
+    "syncDate": 1743191735508
 }
