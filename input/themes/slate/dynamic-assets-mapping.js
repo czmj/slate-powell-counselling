@@ -17,6 +17,7 @@ module.exports = function (themeConfig) {
     'besley': { hasItalic: true },
     'bitter': { hasItalic: true },
     'brygada1918': { hasItalic: true },
+    'buenosaries': { hasItalic: true},
     'cabin': { hasItalic: true },
     'cairo': { hasItalic: false },
     'comfortaa': { hasItalic: false },

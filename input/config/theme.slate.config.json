@@ -4,14 +4,15 @@
         "tagsPostsPerPage": 12,
         "authorsPostsPerPage": 12,
         "excerptLength": 25,
-        "logo": ""
+        "logo": "media/website/SPC_Logo_White.svg"
     },
     "customConfig": {
         "mainWidth": "960px",
         "navbarWidth": "300px",
-        "primaryColor": "#4C732F",
-        "fontBody": "montserrat",
-        "fontHeadings": "comfortaa",
+        "primaryColor": "#3F7A1C",
+        "linkColor": "#378604",
+        "fontBody": "buenosaries",
+        "fontHeadings": "buenosaries",
         "fontMenu": "var(--heading-font)",
         "fontLogo": "var(--heading-font)",
         "minFontSize": "1.1",
@@ -19,7 +20,7 @@
         "lineHeight": "1.7",
         "letterSpacing": "0",
         "fontBodyWeight": "400",
-        "fontBoldWeight": "600",
+        "fontBoldWeight": "700",
         "fontHeadignsWeight": "500",
         "h1HeadingsStyle": "italic",
         "fontHeadingsStyle": "normal",

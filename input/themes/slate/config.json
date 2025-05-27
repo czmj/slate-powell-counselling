@@ -99,7 +99,13 @@
             "value": "#D73A42",
             "type": "colorpicker"
         },
-       
+        {
+            "name": "linkColor",
+            "label": "Link color",
+            "group": "Colors",
+            "value": "#5c9b2e",
+            "type": "colorpicker"
+        },
         {
             "name": "separator",
             "type": "separator",
@@ -143,6 +149,11 @@
                 {
                     "label": "Brygada 1918",
                     "value": "brygada1918",
+                    "group": "Serif"
+                },
+                {
+                    "label": "Buenos Aries",
+                    "value": "buenosaries",
                     "group": "Serif"
                 },
                 {
@@ -472,6 +483,11 @@
                 {
                     "label": "Brygada 1918",
                     "value": "brygada1918",
+                    "group": "Serif"
+                },
+                {
+                    "label": "Buenos Aries",
+                    "value": "buenosaries",
                     "group": "Serif"
                 },
                 {

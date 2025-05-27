@@ -69,6 +69,12 @@ var generateThemeVariables = function(params) {
         weight: '400 700',
         hasItalic: true
       },
+      'buenosaries': {
+        name: 'Buenos Aries',
+        family: '\'Buenos Aries\', serif',
+        weight: '100 300 400 500 600 700 900',
+        hasItalic: true
+      },
       'cabin': {
         name: 'Cabin',
         family: '\'Cabin\', sans-serif',
@@ -479,7 +485,7 @@ var generateThemeVariables = function(params) {
       --color:              ${params.primaryColor};   
       --text-color:         #17181E;
       --headings-color:     #17181E;
-      --link-color:         ${params.primaryColor};  
+      --link-color:         ${params.linkColor};  
       --nav-link-color:     #fff;
       --logo-color:         #17181E;   
       --highlight-color:    #FFC700;
