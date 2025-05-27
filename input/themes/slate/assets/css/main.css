@@ -699,7 +699,7 @@ body {
   background: var(--color);
   color: var(--nav-link-color);
   text-align: center;
-  padding: 13vw 3vw;
+  padding: 13vw calc(2vw + 20px);
   font-weight: bold;
   position: fixed;
   left: 0;
